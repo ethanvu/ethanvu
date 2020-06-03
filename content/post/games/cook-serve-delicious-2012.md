@@ -1,6 +1,9 @@
 ---
-title: "Cook, Serve, Delicious! (2012)"
-date: 2020-05-29T23:43:17-04:00
+title: "Cook, Serve, Delicious! (2012) Review"
+author: "Ethan Vu"
+date: 2020-06-03T00:25:40-04:00
+tags: ["video games", "Cook, Serve, Delicious!"]
+categories: ["video game reviews", "4"]
 image: cook-serve-delicious-2012/main.jpg
 draft: true
 ---
@@ -21,14 +24,14 @@ As newer dishes are acquired, the more complicated they tend to be.  One of the 
  
 The pursuit of translating of orders into keystrokes without any mistakes, a perfect day, is what makes *Cook, Serve, Delicious!* challenging and fun.  Ultimately, the game is a couple steps above restaurant sims that could be found on Miniclip.  There is a clear difference between a good and bad cooker, server, and delicious-er!, but it might not be worth it to get good.  It won't be "weighty" enough for some to sink more than 10 hours into it.  It was for me though.
 
-4/7
+{{< rating rating="4" >}}
 
 # Credits
 {{< credits src="/images/cook-serve-delicious-2012/boxart.jpg" >}}
 <p><b>Developer</b></p>
-<p>Vertigo Gaming</p>
+<p>Vertigo Gaming Inc.</p>
 <p><b>Publisher</b></p>
-<p>Vertigo Gaming</p>
+<p>Vertigo Gaming Inc.</p>
 <p><b>Director</b></p>
 <p>David Galindo</p>
 <p><b>Artist</b></p>
