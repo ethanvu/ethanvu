@@ -1,0 +1,12 @@
+- item: Home
+  url: ""
+- item: About                                                                                                             
+  url: about/
+- item: Category
+  url: categories/
+- item: Tag
+  url: tags/
+- item: Twitter
+  url: "https://twitter.com/EthanVu"
+- item: GitHub
+  url: "https://github.com/ethanvu"
