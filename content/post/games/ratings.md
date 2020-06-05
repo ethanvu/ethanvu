@@ -2,7 +2,6 @@
 title: "Video Game Ratings Reference"
 author: "Ethan Vu"
 date: 2020-06-01T21:52:52-04:00
-draft: true
 ---
 
 Here I'll describe the buckets that I put games into for how much I enjoyed them.
