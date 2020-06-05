@@ -1,5 +1,12 @@
-baseURL = "http://example.org/"
+baseURL = "https://ethanvu.github.io/"
 languageCode = "en-us"
 title = "Ethan Vu"
 theme = "newsroom"
-paginate = 3
+author = "ethanvu"
+copyright = "Copyright © 2020, ethavu, Weru, and the Hugo Authors; all rights reserved."
+canonifyurls = true
+paginate = 10
+pygmentsCodefences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsUseClasses=true
+pygmentsOptions = "linenos=table"
