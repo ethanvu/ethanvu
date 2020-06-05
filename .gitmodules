@@ -1,3 +1,7 @@
 [submodule "themes/newsroom"]
 	path = themes/newsroom
 	url = https://github.com/onweru/newsroom.git
+[submodule "public"]
+	path = public
+	url = https://github.com/ethanvu/ethanvu.github.io.git
+	branch = master
