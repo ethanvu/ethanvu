@@ -2,7 +2,7 @@
 title: "Cook, Serve, Delicious! (2012) Review"
 author: "Ethan Vu"
 date: 2020-06-03T00:25:40-04:00
-tags: ["4", "Cook, Serve, Delicious!", "video game"]
+tags: ["Cook, Serve, Delicious!", "video game", "review", "4"]
 categories: ["video game reviews"]
 image: cook-serve-delicious-2012/main.jpg
 ---
@@ -19,9 +19,9 @@ The difficulty progression mostly comes from the buying of recipe upgrades and n
 
 For example, when soup is first bought, there are two ingredients that start with "B": bowtie noodles and bouillon cubes.  Bacon, beans, and broccoli are introduced at levels three, four, and five respectively.  By default, bowtie noodles map to W, bullion cubes to U, bacon to B, beans to E, and broccoli to R.
 
-As newer dishes are acquired, the more complicated they tend to be.  One of the first dishes the player character will likely purchase is the pretzel which require one of two toppings or no toppings at all.  In contrast, shish kabobs, one of the last dishes to be acquired, requires eight units of food and there are 10 ingredients to choose from.  However, two food units of the same ingredient cannot be adjacent to one another.  This adds another dimension of consideration for the cook.  It's not enough to get the combination right, but the permutation as well.
- 
-The pursuit of translating of orders into keystrokes without any mistakes, a perfect day, is what makes *Cook, Serve, Delicious!* challenging and fun.  Ultimately, the game is a couple steps above restaurant sims that could be found on Miniclip.  There is a clear difference between a good and bad cooker, server, and delicious-er!, but it might not be worth it to get good.  It won't be "weighty" enough for some to sink more than 10 hours into it.  It was for me though.
+As newer dishes are acquired, the more complicated they tend to be.  One of the first dishes the player character will likely purchase is the pretzel which require one of two toppings or no toppings at all.  In contrast, shish kabobs, one of the last dishes to be acquired, requires eight units of food and there are 10 ingredients to choose from.  However, two food units of the same ingredient cannot be adjacent to one another.  This adds another dimension of consideration for the cook.  It's not enough to get the combination right, but the permutation as well.  The pursuit of translating of orders into keystrokes without any mistakes, a perfect day, is what makes *Cook, Serve, Delicious!* challenging and fun.
+
+Ultimately, the game is a couple steps above restaurant sims that could be found on Miniclip.  And although there is a clear skill gap between a good and bad cooker, server, and delicious-er, many will find getting good at this game isn't worth it.  They might assess that there's not enough meat on the bone to sink more than 10 hours into it.  It was for me though.
 
 {{< rating rating="4" >}}
 
