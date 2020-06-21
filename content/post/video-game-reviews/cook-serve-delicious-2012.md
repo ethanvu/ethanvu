@@ -4,7 +4,7 @@ author: "Ethan Vu"
 date: 2020-06-03T00:25:40-04:00
 tags: ["Cook, Serve, Delicious!", "video game", "review", "4"]
 categories: ["video game reviews"]
-image: cook-serve-delicious-2012/main.jpg
+image: cook-serve-delicious-2012/rush-hour.jpg
 ---
 
 A couple of months ago, I bought a mechanical keyboard for $150 and a coworker was surprised when I told him.  He asked why I wouldn't get an office keyboard for a tenth of the price.  Clearly he's never beaten *Cook, Serve, Delicious!* on extreme difficulty or else he would know.
