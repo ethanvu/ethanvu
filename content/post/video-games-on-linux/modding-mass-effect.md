@@ -3,7 +3,7 @@ title: "Installing ALOT, ALOV, MEUITM, and other mods for Mass Effect on Linux"
 author: "Ethan Vu"
 date: 2020-06-21T14:25:03-04:00
 tags: ["Mass Effect", "Mass Effect series", "video game", "linux"]
-categories: ["linux gaming"]
+categories: ["video games on linux"]
 image: mass-effect/crew.jpg
 ---
 
@@ -102,7 +102,7 @@ Disclaimer: I had a lot of problems installing texture mods.  I was not able to 
 
 Download the Linux zips from [here](https://github.com/MassEffectModder/MassEffectModder/releases) and extract.  If the Linux zips aren't in the current release, try another.
 
-First, run `./MassEffectModder.AppImage`.  Set the game path, e.g. `/home/user/.local/share/Steam/steamapps/common/Mass\ Effect/Binaries/MassEffect.exe`, and the user path, e.g. `/home/user/.local/share/Steam/steamapps/compatdata/17460/pfx/drive_c/users/steamuser/My\ Documents/BioWare/Mass\ Effect`.  What this will do is create a configuration file named `/home/user/.config/MassEffectModder/MassEffectModder.ini`.  The reason I use the GUI instead of the CLI version is that `MassEffectModderNoGui` gets stuck at [this line](https://github.com/MassEffectModder/MassEffectModder/blob/master/MassEffectModder/MassEffectModder/CmdLine/CmdLineParams.cpp#L775) due to an error.  I've never written any program in C++, but I know that a single C++ program might run differently on different OSes as well as different machines.  That's likely why it doesn't work, which is evident from the owner of the MassEffectModder repository removing the Linux programs in the latest release at the time of writing.
+First, run `./MassEffectModder.AppImage`.  Set the game path, e.g. `/home/user/.local/share/Steam/steamapps/common/Mass\ Effect/Binaries/MassEffect.exe`, and the user path, e.g. `/home/user/.local/share/Steam/steamapps/compatdata/17460/pfx/drive_c/users/steamuser/My\ Documents/BioWare/Mass\ Effect`.  What this will do is create a configuration file named `/home/user/.config/MassEffectModder/MassEffectModder.ini`.  The reason I use the GUI instead of the CLI version is that `MassEffectModderNoGui` gets stuck at [this line](https://github.com/MassEffectModder/MassEffectModder/blob/master/MassEffectModder/MassEffectModder/CmdLine/CmdLineParams.cpp#L775) due to an error.  I've never written any program in C++, but I know that a single C++ program might run differently on different OSes as well as different machines.  In any case the owner of the MassEffectModder repository removed the Linux programs in the latest release at the time of writing.
 
 If you're using Steam and the version of Proton you're using is 5.0 or newer, you can skip to the next section.
 
