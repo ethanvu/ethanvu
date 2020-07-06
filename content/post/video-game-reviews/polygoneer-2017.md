@@ -11,7 +11,7 @@ Playing *Polygoneer* makes me think of John Wick hunting the Russian kid in the 
 
 Unlocking stages is extremely easy.  There are world leaderboards for each level, but they don’t get harder the longer one survives.  At least I haven't been able to see if they did get any more difficult because I typically end my runs after 90-ish seconds due to the monotony.  Achieving high scores feels like an exercise in patience rather than one of skill.
 
-The only level I haven’t survived at least 60 seconds in is the last one, which is appropriately titled and capitalized as “HELL”.  If this is what Hell is actually like, I'll never sin again because even spending one second in that seizure-inducing inferno is nauseating.
+The only level I haven’t survived at least 60 seconds in is the last one, which is appropriately titled and capitalized as “HELL”.  If this is what Hell is actually like I'll never sin again because even spending one second in that seizure-inducing inferno is nauseating.
 
 The final insult is when upon exiting the game, the screen flashes black and white for a quarter of a second.  There is a warning on startup that this game is not for people who are prone to epilepsy.  Heed that warning!
 
