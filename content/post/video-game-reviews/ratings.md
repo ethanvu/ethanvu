@@ -28,13 +28,13 @@ Equivalent to 55-66 on Metacritic (10th to 30th percentile), e.g. *APB: Reloaded
 
 ## 3
 
-These are subpar games.  Below average to average.
+These are mediocre games.  Below average to average.
 
 Equivalent to 66-72 on Metacritic (30th to 50th percentile), e.g. *Gratuitous Space Battles (2009)*.
 
 ## 4
 
-These are fine games.  Average to above average.
+These are decent games.  Average to above average.
 
 Equivalent to 73-78 on Metacritic (50th to 70th percentile), e.g. *Heavy Rain (2010)*.
 
@@ -48,7 +48,7 @@ Equivalent to 79-83 on Metacritic (70th to 90th percentile), e.g. *Life is Stran
 
 These games are excellent games.
 
-Equivalent to 84-89 on Metacritic (90th to 98th percentile), e.g. *Papers, Please (2013)*.
+Equivalent to 84-89 on Metacritic (90th to 98th percentile), e.g. *Left 4 Dead 2 (2009)*.
 
 ## 7
 
