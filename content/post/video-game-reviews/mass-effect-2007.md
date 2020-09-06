@@ -1,8 +1,8 @@
 ---
 title: "Mass Effect (2007) Review"
 author: "Ethan Vu"
-date: 2020-07-10T17:31:16-04:00
-tags: ["Mass Effect", "video game", "review", "1"]
+date: 2020-09-06T02:51:17-04:00
+tags: ["Mass Effect", "video game", "review", "5"]
 categories: ["video game reviews"]
 image: mass-effect-2007/sovereign.jpg
 ---
