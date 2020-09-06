@@ -1,8 +1,8 @@
 <div class="credits" style="display: flex;">
-    <div style="margin: 0 auto;">
-        <img src='{{ .Get "src" }}' style="width: 300px;" />
+    <div style="width: 50%; padding-right: 1%">
+        <img src='{{ .Get "src" }}' style="float: right; width: 300px;" />
     </div>
-    <div style="margin: 0 auto; text-align: center;">
+    <div style="text-align: left; word-wrap: break-word; width: 50%; padding-left: 1%;">
         {{ .Inner }}
     </div>
 </div>

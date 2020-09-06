@@ -22,11 +22,19 @@ The only good and truly worthwhile aspect of *Polygoneer* is the music.  Like I 
 # Credits
 {{< credits src="/images/polygoneer-2017/boxart.jpg" >}}
 <p><b>Developer</b></p>
-<p>NuxGames</p>
+<ul>
+    <li>NuxGames</li>
+</ul>
 <p><b>Publisher</b></p>
-<p>NuxGames</p>
+<ul>
+    <li>NuxGames</li>
+</ul>
 <p><b>Director</b></p>
-<p>Paulo Brunassi</p>
+<ul>
+    <li>Paulo Brunassi</li>
+</ul>
 <p><b>Composer</b></p>
-<p>Derek Volker</p>
+<ul>
+    <li>Derek Volker</li>
+</ul>
 {{< /credits >}}

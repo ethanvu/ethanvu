@@ -28,13 +28,23 @@ Ultimately, the game is a couple steps above restaurant sims that could be found
 # Credits
 {{< credits src="/images/cook-serve-delicious-2012/boxart.jpg" >}}
 <p><b>Developer</b></p>
-<p>Vertigo Gaming Inc.</p>
+<ul>
+    <li>Vertigo Gaming Inc.</li>
+</ul>
 <p><b>Publisher</b></p>
-<p>Vertigo Gaming Inc.</p>
+<ul>
+    <li>Vertigo Gaming Inc.</li>
+</ul>
 <p><b>Director</b></p>
-<p>David Galindo</p>
+<ul>
+    <li>David Galindo</li>
+</ul>
 <p><b>Artist</b></p>
-<p>Sarah Gross</p>
+<ul>
+    <li>Sarah Gross</li>
+</ul>
 <p><b>Composer</b></p>
-<p>Johnathan Geer</p>
+<ul>
+    <li>Johnathan Geer</li>
+</ul>
 {{< /credits >}}
