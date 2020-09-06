@@ -5,7 +5,6 @@ date: 2020-07-10T17:31:16-04:00
 tags: ["Mass Effect", "video game", "review", "1"]
 categories: ["video game reviews"]
 image: mass-effect-2007/sovereign.jpg
-draft: "true"
 ---
 
 One of the most harrowing thoughts is that we humans might be all alone in the Universe.  When the Sun inevitably devours Earth, will there be no one left to experience the world and create stories?  BioWare imagines a galaxy where the answer is NO in *Mass Effect*.  This galaxy is buzzing with life and adventure.  It’s rife with conflict and problems, but they’re not unsolvable.  In fact, they’re waiting to be solved… by the right person.
