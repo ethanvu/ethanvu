@@ -7,15 +7,15 @@ categories: ["video game reviews"]
 image: polygoneer-2017/game.jpg
 ---
 
-Playing *Polygoneer* makes me think of John Wick hunting the Russian kid in the nightclub from the first film.  Shooting at bad guys coming from all sides with pretty shapes, colors, and a bumpin’ soundtrack in the background.  *Polygoneer* lacks the excitement that *John Wick (2014)* has however.
+Playing *Polygoneer* vaguely reminds me of John Wick fighting Iosef and his guards in the nightclub from his namesake 2014 film: bad guys from all sides getting shot while pretty shapes and colorful colors dance to bumpin’ music in the background. *Polygoneer* lacks the excitement and intensity that *John Wick* has however.
 
-Unlocking stages is extremely easy.  There are world leaderboards for each level, but they don’t get harder the longer one survives.  At least I haven't been able to see if they did get any more difficult because I typically end my runs after 90-ish seconds due to the monotony.  Achieving high scores feels like an exercise in patience rather than one of skill.
+The principal reasons for this are that beating stages is extremely easy and the difficulty in each stage never ramps up. This means achieving high scores is an exercise of patience rather than skill and the world leaderboards are actually a list of the most insane people on Earth.
 
-The only level I haven’t survived at least 60 seconds in is the last one, which is appropriately titled and capitalized as “HELL”.  If this is what Hell is actually like I'll never sin again because even spending one second in that seizure-inducing inferno is nauseating.
+I tolerated each level for about 90 seconds, except for one which I only played for 10. This level, the last level, is appropriately titled and capitalized as “HELL”. If this is what Hell is actually like, I’ll never sin again. It's a seizure-inducing, nauseating mess.
 
-The final insult is when upon exiting the game, the screen flashes black and white for a quarter of a second.  There is a warning on startup that this game is not for people who are prone to epilepsy.  Heed that warning!
+The final insult is when upon exiting the game, the screen flashes black and white for a quarter second. There is a warning on startup that this game is not for people who are prone to epilepsy. Heed that warning!
 
-The only good and truly worthwhile aspect of *Polygoneer* is the music.  Like I said before, it’s BANGIN’.  Everything else ranges from boring to physically painful.
+The only good and truly worthwhile aspect of *Polygoneer* is the music. Like I said before, it’s BANGIN’. Everything else ranges from boring to physically painful.
 
 {{< rating rating="1" >}}
 
