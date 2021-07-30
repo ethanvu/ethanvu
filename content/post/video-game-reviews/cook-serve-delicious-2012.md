@@ -2,7 +2,7 @@
 title: "Cook, Serve, Delicious! (2012) Review"
 author: "Ethan Vu"
 date: 2020-06-03T00:25:40-04:00
-tags: ["Cook, Serve, Delicious!", "Cook, Serve, Delicious! series", "video game", "review", "4"]
+tags: ["Cook, Serve, Delicious!", "video game", "review", "4"]
 categories: ["video game reviews"]
 image: cook-serve-delicious-2012/rush-hour.jpg
 ---

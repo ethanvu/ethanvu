@@ -58,7 +58,7 @@ To this day, 13 years later, people all around the world congregate to discuss t
 <ul>
     <li>Casey Hudson</li>
 </ul>
-<p><b>Designer</b></p>
+<p><b>Game Designer</b></p>
 <ul>
     <li>Preston Watamaniuk</li>
     <li>Brad Prince</li>
@@ -81,17 +81,13 @@ To this day, 13 years later, people all around the world congregate to discuss t
     <li>Adrien Cho</li>
     <li>Shareef Shanawany</li>
 </ul>
-<p><b>Programmer</b></p>
-<ul>
-    <li>David Falkner</li>
-</ul>
 <p><b>Animator</b></p>
 <ul>
     <li>Jonathan Cooper</li>
     <li>Shane Welbourn</li>
     <li>Ben Hindle</li>
 </ul>
-<p><b>Audio</b></p>
+<p><b>Sound Designer</b></p>
 <ul>
     <li>Steven Sim</li>
     <li>Michael Kent</li>
@@ -104,6 +100,10 @@ To this day, 13 years later, people all around the world congregate to discuss t
 <ul>
     <li>Jack Wall</li>
     <li>Sam Hulick</li>
+</ul>
+<p><b>Programmer</b></p>
+<ul>
+    <li>David Falkner</li>
 </ul>
 <p><b>Cast</b></p>
 <ul>

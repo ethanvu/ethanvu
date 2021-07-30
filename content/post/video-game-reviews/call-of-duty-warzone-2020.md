@@ -2,7 +2,7 @@
 title: "Call of Duty: Warzone (2020) Review"
 author: "Ethan Vu"
 date: 2020-09-30T02:22:03-04:00
-tags: ["Call of Duty series", "battle royale", "video game", "review", "4"]
+tags: ["Call of Duty", "video game", "review", "4"]
 categories: ["video game reviews"]
 image: call-of-duty-warzone-2020/warzone-win.jpg
 ---
@@ -28,6 +28,7 @@ Still, there aren’t many feelings more rewarding than winning a *Warzone* matc
 <p><b>Developer</b></p>
 <ul>
     <li>Infinity Ward</li>
+    <li>Raven Software</li>
 </ul>
 <p><b>Publisher</b></p>
 <ul>
@@ -38,7 +39,7 @@ Still, there aren’t many feelings more rewarding than winning a *Warzone* matc
     <li>David Stohl</li>
     <li>Patrick Kelly</li>
 </ul>
-<p><b>Designer</b></p>
+<p><b>Game Designer</b></p>
 <ul>
     <li>Ajnkya Limaye</li>
 </ul>
@@ -46,16 +47,16 @@ Still, there aren’t many feelings more rewarding than winning a *Warzone* matc
 <ul>
     <li>Aaron Beck</li>
 </ul>
-<p><b>Audio</b></p>
+<p><b>Sound Designer</b></p>
 <ul>
     <li>Blair Devereaux</li>
-</ul>
-<p><b>Programmer</b></p>
-<ul>
-    <li>Aisha Mandel</li>
 </ul>
 <p><b>Composer</b></p>
 <ul>
     <li>Sarah Schachner</li>
+</ul>
+<p><b>Programmer</b></p>
+<ul>
+    <li>Aisha Mandel</li>
 </ul>
 {{< /credits >}}
