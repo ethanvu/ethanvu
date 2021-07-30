@@ -2,7 +2,7 @@
 title: "Installing ALOT, ALOV, MEUITM, and other mods for Mass Effect on Linux"
 author: "Ethan Vu"
 date: 2020-06-21T14:25:03-04:00
-tags: ["Mass Effect", "Mass Effect series", "video game", "linux"]
+tags: ["Mass Effect", "video game", "linux"]
 categories: ["video games on linux"]
 image: mass-effect-2007/crew.jpg
 ---
